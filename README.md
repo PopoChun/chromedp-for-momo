@@ -1,2 +1,5 @@
 # chromedp_for_momo
-Using ‘momo購物流程’ for chromedp practice
+
+## Step 1: Generating cookies
+
+## Step 2: Load cookies & checkout item
